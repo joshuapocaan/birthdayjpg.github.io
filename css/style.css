@@ -27,8 +27,26 @@ canvas {
 }
 
 .slider-1, .pinoy-jumbotron {
-    background: url(pictures/slider-1.jpg);
+    background: url(/pictures/slider-1.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
+}
+
+.headings-1 {
+    font-family: 'Bangers', cursive;
+    font-size: 5em;
+    text-align: center;
+    -webkit-text-stroke: 2px white;
+}
+
+.text-body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 1000;
+}
+
+.subtitle {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 0.5em
 }
