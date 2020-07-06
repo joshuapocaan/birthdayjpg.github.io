@@ -27,7 +27,7 @@ canvas {
 }
 
 .slider-1, .pinoy-jumbotron {
-    background: url(/pictures/slider-1.png);
+    background: url(/birthdayjpg.github.io/pictures/slider-1.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -49,4 +49,8 @@ canvas {
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     font-size: 0.5em
+}
+
+.slider-2 {
+    background-color: #EE4266;
 }
